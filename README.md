@@ -1,4 +1,4 @@
-# IT-Project-Management-Womens-Hackathon
+# IT Project Management Womens Hackathon
 This repository contains all deliverables for my IT Project Management capstone completed during the UMSL Women's Hackathon 2025. Our goal was to manage event operations, branding, and communication using core project management principles.
 
 ## Overview
