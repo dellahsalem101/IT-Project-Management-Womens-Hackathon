@@ -9,7 +9,7 @@ As the **Marketing Team Lead**, I:
 - Developed branded merchandise
 
 ## Key Deliverables
-- [Design Links & Promotional Assets] 
+- [Design Links & Promotional Assets] (marketing_links_umsl_hackathon.docx)
 
 
 
