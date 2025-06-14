@@ -9,8 +9,10 @@ As the **Marketing Team Lead**, I:
 - Developed branded merchandise
 
 ## Key Deliverables
+- [Project Plan & Project Charter](Project%20Plan%20%26%20Project%20Charter.pdf)
+- [Closing Project Report](Closing%20Project%20Report.pdf)
 - [Design Links & Promotional Assets](Marketing%20Links%20For%20UMSL%20Womens%20Hackathon.pdf)
-- [Project Plan & Project Charter](
+
 
 
 
