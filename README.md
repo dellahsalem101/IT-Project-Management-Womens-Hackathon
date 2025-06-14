@@ -10,6 +10,7 @@ As the **Marketing Team Lead**, I:
 
 ## Key Deliverables
 - [Design Links & Promotional Assets](Marketing%20Links%20For%20UMSL%20Womens%20Hackathon.docx)
+- [Project Plan & Project Charter](
 
 
 
